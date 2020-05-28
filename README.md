@@ -1,4 +1,4 @@
-# goatme-coding-challenge2
+# goatme-coding-challenge
 
 ## Project setup
 ```
